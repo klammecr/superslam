@@ -1,4 +1,6 @@
-# superslam
+# SuperSLAM
+![image](https://user-images.githubusercontent.com/27089767/235828753-160b668d-f7a9-48cb-ac53-d01616dfba4b.png)
+
 SLAM with deep learning feature and descriptors (SuperPoint)
 
 This work includes changing the ORB-SLAM pipeline in order to work with deep learning descriptors like SuperPoint. Eventually, we would like to use SuperGlue to imporve matching even further in this pipeline
