@@ -1,5 +1,4 @@
 # SuperSLAM
-![image](https://user-images.githubusercontent.com/27089767/235828791-a93a9cac-1f98-4da2-82f9-c804a34bd21b.png)
 
 SLAM with deep learning feature and descriptors (SuperPoint)
 
