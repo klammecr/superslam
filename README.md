@@ -2,13 +2,16 @@
 
 SLAM with deep learning feature and descriptors (SuperPoint)
 
-This work includes changing the ORB-SLAM pipeline in order to work with deep learning descriptors like SuperPoint. Eventually, we would like to use SuperGlue to imporve matching even further in this pipeline
+This work includes changing the ORB-SLAM2 pipeline in order to work with deep learning descriptors like SuperPoint. Eventually, we would like to use SuperGlue to imporve matching even further in this pipeline
 
 Docker Container: `https://hub.docker.com/r/cklammer/superslam`
 
 ```
 docker pull cklammer/superslam
 ```
+
+Code for Superpoint v2 (Superpoint-opt) which is vanilla SuperPoint with a MobileNet backbone and support for both RGB and Grayscale inputs:
+`https://github.com/thebharathsk/superpoint-optimized`
 
 Contributions:
 - [X] Docker container to work with deep learning descriptors and setting environment
@@ -22,6 +25,6 @@ Contributions:
 Look to see additional improvements coming soon!
 
 Future Work:
-- [ ] Integrating our Superpoint_v2 into this repo
+- [ ] Integrating our Superpoint_v2 (Superpoint-opt) into this repo
 - [ ] Adding SuperGlue for matching
 - [ ] Speed up and better acceleration for GPUs
