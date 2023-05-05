@@ -24,7 +24,12 @@ Contributions:
 
 Look to see additional improvements coming soon!
 
+TODOs for repo migration:
+- [ ] Include trained vocabularies used for Superpoint_v1 and Superpoint_v2 and shell scripts used to pull them down
+- [ ] Validate all code is migrated and switch over docker image to have the latest pre-loaded
+
 Future Work:
 - [ ] Integrating our Superpoint_v2 (Superpoint-opt) into this repo
+- [ ] Adding a switch allowing use of both ORB and Superpoint frontends
 - [ ] Adding SuperGlue for matching
 - [ ] Speed up and better acceleration for GPUs
