@@ -13,6 +13,10 @@ docker pull cklammer/superslam
 Code for Superpoint v2 (Superpoint-opt) which is vanilla SuperPoint with a MobileNet backbone and support for both RGB and Grayscale inputs:
 [Superpoint-opt](https://github.com/thebharathsk/superpoint-optimized)
 
+## Vocabularies:
+[Superpoint v1 Vocabulary](https://drive.google.com/file/d/1M_SjdDFACHFl8CN6CchaRM_puHhqTUwl/view?usp=sharing)
+[Superpoint v2 Vocabulary](https://drive.google.com/file/d/1R4juBr5f5Qcm-NeirsMDB0B3mZnjFbld/view?usp=sharing)
+
 ## Project Contributions:
 - [X] Docker container to work with deep learning descriptors and setting environment
 - [X] Support with DBoW3 and C++17 thanks to GCN_v2's repo
@@ -27,7 +31,7 @@ Look to see additional improvements coming soon!
 ## Schedule for Upcoming Work:
 | Status | Target Completion | Contribution |
 | :---        |    :----:    |          :---: |
-| &#9744;  | **End May**       | Include trained vocabularies used for Superpoint_v1 and Superpoint_v2 and shell scripts used to pull them down|
+| &#9745;  | **End May**       | Include trained vocabularies used for Superpoint_v1 and Superpoint_v2 and shell scripts used to pull them down|
 | &#9744;  | **End May-Begin June** | Investigate performance issues for Superpoint v1 
 | &#9744;  | **Begin June**   | Validate all code is migrated and switch over docker image to have the latest pre-loaded |
 | &#9744;  | **Mid June**      | Integrating our Superpoint_v2 (Superpoint-opt) into this repo|
