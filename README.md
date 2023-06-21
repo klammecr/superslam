@@ -32,7 +32,7 @@ Look to see additional improvements coming soon!
 | Status | Target Completion | Contribution |
 | :---        |    :----:    |          :---: |
 | &#9745;  | **End May**       | Include trained vocabularies used for Superpoint_v1 and Superpoint_v2 and shell scripts used to pull them down|
-| &#9744;  | **End May-Begin June** | Investigate performance issues for Superpoint v1 
+| In Progress....  | **End May-Begin June** | Investigate performance issues for Superpoint v1 
 | &#9744;  | **Begin June**   | Validate all code is migrated and switch over docker image to have the latest pre-loaded |
 | &#9744;  | **Mid June**      | Integrating our Superpoint_v2 (Superpoint-opt) into this repo|
 | &#9744;  | **Late June**     | Adding a switch allowing use of both ORB and Superpoint frontends|
