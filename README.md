@@ -33,9 +33,9 @@ Look to see additional improvements coming soon!
 | :---        |    :----:    |          :---: |
 | &#9745;  | **End May**       | Include trained vocabularies used for Superpoint_v1 and Superpoint_v2 and shell scripts used to pull them down|
 | In Progress....  | **End May-Begin June** | Investigate performance issues for Superpoint v1 
-| &#9744;  | **Begin June**   | Validate all code is migrated and switch over docker image to have the latest pre-loaded |
-| &#9744;  | **Mid June**      | Integrating our Superpoint_v2 (Superpoint-opt) into this repo|
-| &#9744;  | **Late June**     | Adding a switch allowing use of both ORB and Superpoint frontends|
-| &#9744;  | **Begin August**  | Speed up and better acceleration for GPUs |
-| &#9744;  | **End August**    | Adding SuperGlue/GCN/COTR for matching |
-| &#9744;  | **Begin Sept**    | Begin summarizing and finalizing work and findings for a workshop/conference |
+| &#9744;  | **?**   | Validate all code is migrated and switch over docker image to have the latest pre-loaded |
+| &#9744;  | **?**      | Integrating our Superpoint_v2 (Superpoint-opt) into this repo|
+| &#9744;  | **?**     | Adding a switch allowing use of both ORB and Superpoint frontends|
+| &#9744;  | **?**  | Speed up and better acceleration for GPUs |
+| &#9744;  | **?**    | Adding SuperGlue/GCN/COTR for matching |
+| &#9744;  | **?**    | Begin summarizing and finalizing work and findings for a workshop/conference |
