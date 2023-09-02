@@ -29,6 +29,7 @@ Code for Superpoint v2 (Superpoint-opt) which is vanilla SuperPoint with a Mobil
 Look to see additional improvements coming soon!
 
 ## Schedule for Upcoming Work:
+### Notice: As I'm finishing up my master's this December I will be a bit busy, I likely will not revisit this until around December unless I decide that I can continue this work in a course project. This is a research topic that I am still very interested in but don't have the time right now. If you are interested in collaborating and contributing to this, please send me an email!
 | Status | Target Completion | Contribution |
 | :---        |    :----:    |          :---: |
 | &#9745;  | **End May**       | Include trained vocabularies used for Superpoint_v1 and Superpoint_v2 and shell scripts used to pull them down|
